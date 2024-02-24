@@ -1,4 +1,10 @@
 # Menu Restaurant
 
-## Landing page
-Landing page criada no curso da RocketSeat para estudo
+## Introdução
+
+Landing page criada na trilha de cursos da RocketSeat
+
+### Tecnologias utilizadas
+
+- HTML
+- CSS
